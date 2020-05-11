@@ -1,5 +1,5 @@
 # Docker for Nginx Route
-
+제작 환경 aws ubuntu 18.04
 이 도커의 목적은 NginX를 이용하여 여러 서버에 라우팅, 로드벨런싱을 셋팅하기 위함이다.
 <br>
 # 도커 설치
