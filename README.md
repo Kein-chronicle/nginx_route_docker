@@ -5,12 +5,6 @@
 <br>
 <br>
 
-# git clone
-<pre>
-git clone https://github.com/Kein-chronicle/nginx_route_docker.git
-</pre>
-<br>
-
 # 도커 설치
 <br>
 최초 사용 이전 몇가지 요소를 설치해준다
