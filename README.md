@@ -3,6 +3,14 @@
 
 이 도커의 목적은 NginX를 이용하여 여러 서버에 라우팅, 로드벨런싱을 셋팅하기 위함이다.
 <br>
+<br>
+
+# git clone
+<pre>
+git clone https://github.com/Kein-chronicle/nginx_route_docker.git
+</pre>
+<br>
+
 # 도커 설치
 <br>
 최초 사용 이전 몇가지 요소를 설치해준다
